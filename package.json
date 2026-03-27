@@ -1,0 +1,14 @@
+{
+  "name": "rentnest-house-rental",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ejs": "^3.1.10"
+  }
+}
